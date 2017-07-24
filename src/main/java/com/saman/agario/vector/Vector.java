@@ -18,7 +18,12 @@ public void normalize() {
 
 public double distanceTo(Vector other){
 	
-	return 5.2;
+	double distX = this.x - other.x;
+	double distY = this.y - other.y;
+	
+	double distance = Math.sqrt(distX * distX + distY * distY);
+	
+	return distance;
 }
 
 }
