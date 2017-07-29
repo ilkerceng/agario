@@ -2,6 +2,7 @@ package com.saman.agario.patterns.factory;
 
 import java.awt.Color;
 
+import com.saman.agario.entites.Food;
 import com.saman.agario.patterns.strategies.StepStrategy;
 import com.saman.agario.vector.Vector;
 

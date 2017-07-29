@@ -1,4 +1,4 @@
-package com.saman.agario.patterns.factory;
+package com.saman.agario.entites;
 
 import java.awt.Color;
 

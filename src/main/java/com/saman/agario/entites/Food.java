@@ -1,8 +1,7 @@
-package com.saman.agario.patterns.factory;
+package com.saman.agario.entites;
 
 import java.awt.Color;
 
-import com.saman.agario.entites.Entity;
 import com.saman.agario.patterns.strategies.StepStrategy;
 import com.saman.agario.vector.Vector;
 
