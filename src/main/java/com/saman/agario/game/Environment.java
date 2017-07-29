@@ -7,8 +7,7 @@ import java.util.Random;
 
 import com.saman.agario.entites.Cell;
 import com.saman.agario.entites.Entity;
-import com.saman.agario.patterns.factory.Food;
-import com.saman.agario.patterns.strategies.GrapFood;
+import com.saman.agario.entites.Food;
 import com.saman.agario.patterns.strategies.MoveRandom;
 import com.saman.agario.patterns.strategies.StandStill;
 import com.saman.agario.patterns.strategies.StepStrategy;
@@ -55,7 +54,7 @@ public class Environment {
 	}
 
 	public StepStrategy generateCellStepStrategy() {
-		
+
 		return null;
 	}
 
